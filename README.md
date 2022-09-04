@@ -1,2 +1,2 @@
 # travel-guide
-Created with CodeSandbox
+This Travel Guide app gives brief information about different cities that can be included in your travel plans.
